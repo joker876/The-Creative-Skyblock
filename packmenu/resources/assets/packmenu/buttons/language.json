@@ -1,0 +1,15 @@
+{
+	"x": -250,
+	"y": 72,
+	"width": 20,
+	"height": 20,
+	"u": 0,
+	"v": 80,
+	"hoverU": 0,
+	"hoverV": 100,
+	"texWidth": 256,
+	"texHeight": 256,
+	"texture": "packmenu:textures/gui/buttons.png",
+	"action": "OPEN_GUI",
+	"data": "LANGUAGE"
+}

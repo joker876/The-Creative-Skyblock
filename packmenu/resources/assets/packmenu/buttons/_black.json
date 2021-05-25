@@ -1,0 +1,11 @@
+{
+	"x": -270,
+	"y": 0,
+	"anchor": "TOP_CENTER",
+	"width": 240,
+	"height": 2160,
+	"langKey": "menu.singleplayer",
+	"active": false,
+	"action": "NONE",
+	"texture": "packmenu:textures/gui/black.png"
+}

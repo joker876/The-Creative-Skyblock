@@ -1,0 +1,23 @@
+1.1.4
+- added "Lanterns+" mod
+1.1.3
+- added "End Portal Recipe" mod
+- fixed some spelling mistakes in quests
+1.1.2
+- fixed processing copper and zinc chunks resulting it the wrong ingot
+1.1.1
+- added "[SBM] Wooden Shears" mod
+1.1.0
+- removed "Chunk Loaders", "Farming for Blockheads", "ScrewTheNether" mods
+- switched from using CraftTweaker to KubeJS
+- added "Leahed", and "Uppers" mods
+- buffed early game Iron Piece drop rates
+- fixed gravel -> andesite smelting recipe not working
+- ironchest chests can now be crafted with upgrades
+- tweaked Heart of the Sea, coal, coral seed, pickle seed, kelp seed, copper piece, seagrass, nautilus shell, andesite/granite/diorite/basalt/blackstone pebble, ender pearl drop rates from sifting
+- added Dead Bush drop to Sand from sifting
+- Pam's Harvestcraft gardens now drop from various blocks from sifting
+- unified porcelain from "Ceramics" and "Ex Nihilo Sequentia" mods
+- added custom game icon and custom window title
+1.0.0
+- initial release
